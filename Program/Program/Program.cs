@@ -10,6 +10,8 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Main");
+            Console.ReadKey();
         }
     }
 }
