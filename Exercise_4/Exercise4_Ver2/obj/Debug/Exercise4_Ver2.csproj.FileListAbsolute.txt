@@ -1,0 +1,15 @@
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\Exercise4_Ver2.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\Exercise4_Ver2.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\Exercise4_Ver2.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\EntityFramework.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\EntityFramework.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.csprojAssemblyReference.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.csproj.CoreCompileInputs.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.csproj.CopyComplete
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.Migrations.InitialCreate.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.csproj.GenerateResource.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\CSharp\WeekProjects\Exercise4_Ver2\Exercise4_Ver2\obj\Debug\Exercise4_Ver2.Migrations.UpdateWeekSalaryToFloat.resources
