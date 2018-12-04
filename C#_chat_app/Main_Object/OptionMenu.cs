@@ -348,7 +348,7 @@ namespace Main_Object
                                                     catch(Exception ex)
                                                     {
                                                         Console.WriteLine(ex.Message);
-                                                        Console.WriteLine("Press any button to return.");
+                                                        Console.WriteLine("Press any button to exit.");
                                                         Console.ReadKey();
                                                         return;
                                                     }
@@ -702,7 +702,7 @@ namespace Main_Object
                         catch (Exception ex)
                         {
                             Console.WriteLine(ex.Message);
-                            Console.WriteLine("Press any button to return.");
+                            Console.WriteLine("Press any button to exit.");
                             Console.ReadKey();
                             return;
                         }
