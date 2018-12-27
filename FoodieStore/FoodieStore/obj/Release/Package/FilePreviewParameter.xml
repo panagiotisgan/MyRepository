@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TheFoodieStore" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pa_na\\OneDrive\\Υπολογιστής\\Foodie_Το_Τελικό\\Foodie\ Almost\ Final2\\FoodieStore\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\pa_na\\OneDrive\\Υπολογιστής\\Foodie_Το_Τελικό\\Foodie\ Almost\ Final2\\FoodieStore\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="App_Context-Web.config Connection String" description="" value="Data Source=tcp:thefoodie.database.windows.net;Initial Catalog=FoodieStore;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\pa_na\\OneDrive\\Υπολογιστής\\Foodie_Το_Τελικό\\Foodie\ Almost\ Final2\\FoodieStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='App_Context']/@connectionString" />
+  </parameter>
+</parameters>

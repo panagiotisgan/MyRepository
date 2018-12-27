@@ -1,0 +1,647 @@
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csi.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\EntityFramework.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\EntityFramework.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\itextsharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\itextsharp.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\SendGrid.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Net.Http.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\SendGrid.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\SendGrid.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\FoodieStore\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\FoodieStore.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\FoodieStore.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csc.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csi.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\EntityFramework.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\itextsharp.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\SendGrid.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Net.Http.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\EntityFramework.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\itextsharp.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\SendGrid.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\SendGrid.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie_Recent - Shopping Cart (2)\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\FoodieStore.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\FoodieStore.pdb
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csc.exe
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csi.exe
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\EntityFramework.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\itextsharp.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\SendGrid.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Net.Http.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\EntityFramework.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\itextsharp.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\SendGrid.pdb
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\SendGrid.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.Migrations.Init.resources
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.csproj.GenerateResource.cache
+C:\Users\Panagiotis\Desktop\Foodie Almost Final\FoodieStore\obj\Debug\FoodieStore.Migrations.Test.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\EntityFramework.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\itextsharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\SendGrid.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Net.Http.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\EntityFramework.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\itextsharp.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\SendGrid.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\SendGrid.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.Init.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.Test.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.GenerateResource.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\FoodieStore.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\EntityFramework.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\itextsharp.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\SendGrid.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Net.Http.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\EntityFramework.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\itextsharp.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\SendGrid.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\SendGrid.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.Init.resources
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.Test.resources
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.GenerateResource.cache
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\Emmanouil Mastranton\Desktop\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.AddMigrationAlmFinal.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\EntityFramework.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\itextsharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\SendGrid.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Net.Http.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\EntityFramework.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\itextsharp.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\SendGrid.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\SendGrid.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.init.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.imageurl_product.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.two.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.GenerateResource.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Last\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\FoodieStore.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\csi.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.AppContext.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Console.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\vbc.rsp
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\EntityFramework.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\itextsharp.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\itextsharp.xmlworker.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\SendGrid.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Net.Http.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\EntityFramework.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\EntityFramework.SqlServer.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\itextsharp.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\Newtonsoft.Json.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\SendGrid.pdb
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\SendGrid.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Helpers.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\WebMatrix.Data.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\WebMatrix.WebData.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\System.Web.Mvc.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csprojAssemblyReference.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.init.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.imageurl_product.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.Migrations.two.resources
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.GenerateResource.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CoreCompileInputs.cache
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.csproj.CopyComplete
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.dll
+C:\Users\pa_na\OneDrive\Υπολογιστής\Foodie_Το_Τελικό\Foodie Almost Final2\FoodieStore\obj\Debug\FoodieStore.pdb
