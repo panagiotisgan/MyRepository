@@ -1,0 +1,5 @@
+Through Nuget Package Manager Run 'Update-Database' command which create a Database with a name FoodieStore to SqlExpress Manager Studio.
+This action also add to tables Roles and Categories the following records,three Roles(Admin,User and Banned) and 
+three Categories(Drinks,Dishes and Starters). The first account you create take the Admin role and with this User you are able to login 
+as Admin in Dashboard Panel.
+Also you have the choise to create the Database through the FoodieStore.db file.
