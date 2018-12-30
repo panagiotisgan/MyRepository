@@ -58,6 +58,10 @@
     <Compile Include="DeleteUser.cs" />
     <Compile Include="EditUser.cs" />
     <Compile Include="FileAccess.cs" />
+    <Compile Include="Menus\BasicMenu.cs" />
+    <Compile Include="Menus\DeleteMenu.cs" />
+    <Compile Include="Menus\EditMenu.cs" />
+    <Compile Include="Menus\SimpleMenu.cs" />
     <Compile Include="MessageDTO.cs" />
     <Compile Include="Migrations\201811091914340_Arxiko.cs" />
     <Compile Include="Migrations\201811091914340_Arxiko.Designer.cs">
