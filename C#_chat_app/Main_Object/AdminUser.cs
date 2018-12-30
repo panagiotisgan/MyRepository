@@ -241,82 +241,6 @@ namespace Main_Object
             }
         }
 
-        public void UpdateUser(int id,string pass,AccessId accessid)
-        {
-            FileAccess access = new FileAccess(adminFile);
-            using (var db = new App_Context())
-            {
-                var result = db.Users.Find(id);
-                bool isTheAdmin = IsAdmin(id);
-
-                if (result!=null && !isTheAdmin)
-                {
-                    var salt = Password.GetSalt();
-                    var hash = Password.Hash(pass, salt);
-                    result.Password = Convert.ToBase64String(hash);
-                    result.Salt = Convert.ToBase64String(salt);
-                    result.AccessId = accessid;
-                    access.WriteLogFile(id);
-                    db.SaveChanges();
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine("Update succesfully!");
-                    Console.ResetColor();
-                }
-                else if(result != null && isTheAdmin)
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("Invalid Action.You try to change the Admin privilages.");
-                    Console.ResetColor();
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("The Id doesn't match.Update failed.");
-                    Console.ResetColor();
-                }
-            }
-        }
-
-        public void UpdateUser(int id, string email,string pass, AccessId accessid)
-        {
-            FileAccess access = new FileAccess(adminFile);
-
-            using (var db = new App_Context())
-            {
-                var result = db.Users.Find(id);
-                bool isTheAdmin = IsAdmin(id);
-
-                if (result != null && !isTheAdmin)
-                {
-
-                    var salt = Password.GetSalt();
-                    var hash = Password.Hash(pass, salt);
-
-                    result.Email = email;
-                    result.AccessId = accessid;
-                    result.Password = Convert.ToBase64String(hash);
-                    result.Salt = Convert.ToBase64String(salt);
-                    access.WriteLogFile(id);
-                    db.SaveChanges();
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine("Update succesfully!");
-                    Console.ResetColor();
-                }
-                else if(result != null && isTheAdmin)
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("Invalid Action.You try to change the Admin privilages.");
-                    Console.ResetColor();
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("The Id doesn't match.Update failed.");
-                    Console.ResetColor();
-                }
-            }
-        }
-
         public void UpdateEmail(int id, string email)
         {
             FileAccess access = new FileAccess(adminFile);
@@ -332,40 +256,6 @@ namespace Main_Object
                     db.SaveChanges();
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine("Update succesfully!");
-                    Console.ResetColor();
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("The Id doesn't match.Update failed.");
-                    Console.ResetColor();
-                }
-            }
-        }
-
-        public void UpdateEmail(int id,string email,AccessId accessId)
-        {
-            FileAccess access = new FileAccess(adminFile);
-
-            using (var db = new App_Context())
-            {
-                var result = db.Users.Find(id);
-                bool isTheAdmin = IsAdmin(id);
-
-                if(result!=null && !isTheAdmin)
-                {
-                    result.Email = email;
-                    result.AccessId = accessId;
-                    access.WriteLogFile(id);
-                    db.SaveChanges();
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine("Update succesfully!");
-                    Console.ResetColor();
-                }
-                else if(result!=null && isTheAdmin)
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine("Invalid Action.You try to change the Admin privilages.");
                     Console.ResetColor();
                 }
                 else

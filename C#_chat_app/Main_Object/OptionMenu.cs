@@ -162,8 +162,7 @@ namespace Main_Object
                                         }
                                         break;
                                     case 4:
-                                        Console.WriteLine("1.Change Password\n2.Change Access id\n3.Change email\n4.Change Password and Access Id" +
-                                            "\n5.Change Email and Access Id\n6.Change Password,Email and Access Id");
+                                        Console.WriteLine("1.Change Password\n2.Change Access id\n3.Change email");
                                         int takeVal,_id;
                                         bool _take = int.TryParse(Console.ReadLine(),out takeVal);
                                         string success,_email;
@@ -225,84 +224,7 @@ namespace Main_Object
                                                     Console.ReadKey();
                                                     return;
                                                 }
-                                                
-                                                break;
-                                            case 4:
-                                                try
-                                                {
-                                                    bool _successBool = false;
-                                                    _take = int.TryParse(CreateUser("Give", "user id"), out _id);
-                                                    password = CreateUser("Give", "password");
-                                                    do
-                                                    {
-                                                        success = CreateUser("Give", "access id");
-                                                        if (!ValidAccessId(success))
-                                                            Console.WriteLine("Not valid access id");
-                                                        else
-                                                            _successBool = true;
-                                                    } while (!_successBool);
-                                                    e = (AccessId)Enum.Parse(typeof(AccessId), success);
-                                                    manager.UpdateUser(_id, password, e);
-                                                }
-                                                catch(Exception ex)
-                                                {
-                                                    Console.WriteLine(ex.Message);
-                                                    Console.WriteLine("Press any button to exit.");
-                                                    Console.ReadKey();
-                                                    return;
-                                                }
-                                                break;
-                                            case 5:
-                                                try
-                                                {
-                                                    bool _successBool = false;
-                                                    _take = int.TryParse(CreateUser("Give", "user id"), out _id);
-                                                    _email = CreateUser("Give", "email");
-                                                    do
-                                                    {
-                                                        success = CreateUser("Give", "access id");
-                                                        if (!ValidAccessId(success))
-                                                            Console.WriteLine("Not valid access id");
-                                                        else
-                                                            _successBool = true;
-                                                    } while (!_successBool);
-                                                    e = (AccessId)Enum.Parse(typeof(AccessId), success);
-                                                    manager.UpdateEmail(_id, _email, e);
-                                                }
-                                                catch(Exception ex)
-                                                {
-                                                    Console.WriteLine(ex.Message);
-                                                    Console.WriteLine("Press any button to exit.");
-                                                    Console.ReadKey();
-                                                    return;
-                                                }
-                                                break;
-                                            case 6:
-                                                try
-                                                {
-                                                    bool _successBool = false;
-                                                    _take = int.TryParse(CreateUser("Give", "user id"), out _id);
-                                                    password = CreateUser("Give", "password");
-                                                    _email = CreateUser("Give", "email");
-                                                    do
-                                                    {
-                                                        success = CreateUser("Give", "access id");
-                                                        if (!ValidAccessId(success))
-                                                            Console.WriteLine("Not valid access id");
-                                                        else
-                                                            _successBool = true;
-                                                    } while (!_successBool);
-                                                    e = (AccessId)Enum.Parse(typeof(AccessId), success);
-                                                    manager.UpdateUser(_id, _email, password, e);
-                                                }
-                                                catch(Exception ex)
-                                                {
-                                                    Console.WriteLine(ex.Message);
-                                                    Console.WriteLine("Press any button to exit.");
-                                                    Console.ReadKey();
-                                                    return;
-                                                }
-                                                break;
+                                                break; 
                                         }
                                         break;
                                      case 0:
