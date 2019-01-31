@@ -26,7 +26,7 @@ namespace Main_Object
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("The message will delete permanently.Do you want to continue? Y/N");
-                    //Console.ResetColor();
+                    Console.ResetColor();
                     string x = Console.ReadLine();
                     if (x == "Y" || x == "y")
                     {
